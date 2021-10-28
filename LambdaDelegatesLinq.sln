@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MulticastDelegates", "Multi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Predicate", "Predicate\Predicate.csproj", "{03933FEE-3BA2-47BB-8961-16C94C7A2A5E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Action", "Action\Action.csproj", "{784F7AA1-970C-435F-B31D-FE3A3302B0C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{03933FEE-3BA2-47BB-8961-16C94C7A2A5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03933FEE-3BA2-47BB-8961-16C94C7A2A5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03933FEE-3BA2-47BB-8961-16C94C7A2A5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{784F7AA1-970C-435F-B31D-FE3A3302B0C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{784F7AA1-970C-435F-B31D-FE3A3302B0C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{784F7AA1-970C-435F-B31D-FE3A3302B0C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{784F7AA1-970C-435F-B31D-FE3A3302B0C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
